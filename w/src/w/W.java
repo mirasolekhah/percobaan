@@ -16,6 +16,7 @@ public class W {
      */
     public static void main(String[] args) {
         System.out.println("wadadaw");
+        System.out.println("Selamat datang Kelas D RPL FTI UII");
     }
     
 }
